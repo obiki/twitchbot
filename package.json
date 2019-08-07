@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/obiki/twitchbot/issues"
   },
-  "homepage": "https://github.com/obiki/twitchbot#readme"
+  "homepage": "https://github.com/obiki/twitchbot#readme",
+  "dependencies": {
+    "tmi.js": "^1.4.5"
+  }
 }
