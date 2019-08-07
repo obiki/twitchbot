@@ -1,0 +1,19 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "Twitch bot developed on a windows computer because I am stupid and want to do stuff that shouldn't be done",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/obiki/twitchbot.git"
+  },
+  "author": "Abiki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/obiki/twitchbot/issues"
+  },
+  "homepage": "https://github.com/obiki/twitchbot#readme"
+}
